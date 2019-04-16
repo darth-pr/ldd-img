@@ -156,6 +156,6 @@ The official releases of the Imaging LDD are available at <https://pds.jpl.nasa.
 ## Previous Releases:
 
 | Namespace | Information Model Version | Dictionary Version | Release Artifacts |
-| --------- | ------------------------- | ------------------ | ----------------- |
+|-----------|---------------------------|--------------------|-------------------|
 
  
