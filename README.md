@@ -3,7 +3,7 @@
 The Imaging contains high level classes and attributes ...
 
 This is a development repository for the Imaging LDD. The official releases of the Imaging LDD 
-are available at <https://pds.jpl.nasa.gov/datastandards/schema/released>. Development releases are available at <https://github.com/nasa-pds-data-dictionaries/ldd-img/releases }}. 
+are available at <https://pds.jpl.nasa.gov/datastandards/schema/released>. Development releases are available at <https://github.com/nasa-pds-data-dictionaries/ldd-img/releases>. 
 
 # Imaging LDD
 
@@ -35,7 +35,13 @@ The following attributes are being used for ***development*** purposes:
 
 | Name | Affiliation | Role |
 | ---- | ----------- | ----- |
+| Cristina De Cesare | PDS IMG | lead steward |
+| Jordan Padams | PDS EN | committer |
+| Paul Ramirez | PDS IMG | committer |
+| Trent Hare | PDS IMG | committer |
+| Ron Joyner | PDS EN | release manager |
 
+TODO: Insert reference to governance document that describes how to manage LDDs and the roles above. 
 ***
 
 # Getting Started
@@ -134,6 +140,8 @@ latest information on known issues and recent bug fixes and enhancements.
 ***
 
 # Imaging Dictionary Releases
+
+The official releases of the Imaging LDD are available at <https://pds.jpl.nasa.gov/datastandards/schema/released>
 
 ## Latest Release:
 
