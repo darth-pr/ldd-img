@@ -13,6 +13,8 @@
 * upgraded to v1A10 of the IM
 * removed old blocks of commented out XML
 
+## Release 1.4.0.0 - TODO: Update w/ Release Date
+
 * upgraded to v1900 of the IM
 * removed specific Autoexposure algorithm classes and introduced generic Algorithm_Parameter class
 * new/improved definitions for Companding_Parameters, Downsampling_Parameters, Exposure_Parameters
